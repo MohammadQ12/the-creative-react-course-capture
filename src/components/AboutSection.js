@@ -10,7 +10,7 @@ const AboutSection = () => {
                         <h2>We work to make</h2>
                     </div>
                     <div className="hide">
-                        <h2>your <span>dreams</span>come</h2>
+                        <h2>your <span>dreams</span> come</h2>
                     </div>
                     <div className="hide">
                         <h2>true.</h2>
